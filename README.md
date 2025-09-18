@@ -6,8 +6,7 @@ Email Me 👉 ✉️ **rajabhi77484@gmail.com** For Collaboration/Project or Any
 - 🔭 **I’m currently working on:** Agentic workflows and MLOps
 - 🌱 **I’m currently learning:** MLOps
 - 👯 **I’m looking to collaborate on:** Multi Agent automation workflows
-- 💬 **Ask me about:** Collaboration, Tech Support, VMP
-- 📫 **How to reach me:** Enter your email here
+- 💬 **Ask me about:** Building custom AI agents
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I love automating jobs, optimising workflows, saving infra costs, and shipping scalable solutions
 

@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm Abhishek
+# Hi 👋, I'm Abhishek
 **A passionate Full Stack Engineer || AI Engineer || Ex-J.P. Morgan Associate**
 
-Email Me 👉 ✉️ **rajabhi77484@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me at ✉️ **rajabhi77484@gmail.com** For Collaboration/Project or Anything Else. 😊
 
 - 🔭 **I’m currently working on:** Agentic workflows and MLOps
 - 🌱 **I’m currently learning:** MLOps
